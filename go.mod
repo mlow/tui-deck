@@ -1,4 +1,4 @@
-module tui-deck
+module github.com/mlow/tui-deck
 
 go 1.20
 
